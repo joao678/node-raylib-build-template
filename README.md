@@ -14,3 +14,7 @@ pip install lief dotenv
 ``` bash
 python build.py
 ```
+## End result
+![example](https://user-images.githubusercontent.com/8322552/195967885-392a1af6-b1a2-48b2-8df5-0e77b3068859.png)
+
+And most importantly...no console window in the background! 😎
