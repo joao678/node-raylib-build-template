@@ -5,8 +5,12 @@ Sample template for node-raylib with packaging to exe (Windows only)
 - [Python 3](https://www.python.org/downloads/)
 
 ## Installing
-    npm install
-    pip install lief dotenv
+``` bash
+npm install
+pip install lief dotenv
+```
     
 ## Building an executable
-    python build.py
+``` bash
+python build.py
+```
